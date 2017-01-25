@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package pegaruta;
-
+//prueba de cambio
 import java.awt.FlowLayout;
 import java.awt.Toolkit;
 import java.awt.datatransfer.Clipboard;
